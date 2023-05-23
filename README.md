@@ -8,6 +8,10 @@ This project is a simple Floating Whatsapp chat whit JS
 2. Color control
 3. Add User Profile image
 
+## Demo
+
+[Demo WhatsApp Floating Plugin](https://yanker.github.io/utilities-whatsapp/)
+
 ## Getting Started
 
 ### Dependencies
